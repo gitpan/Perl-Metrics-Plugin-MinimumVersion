@@ -1,0 +1,19 @@
+name: Perl-Metrics-Plugin-MinimumVersion
+version: 0.01
+abstract: Perl::Metrics plugin for Perl::MinimumVersion
+author: Adam Kennedy <cpan@ali.as>
+license: perl
+distribution_type: module
+build_requires:
+  Test::More: 0.47
+  File::Spec: 0.80
+requires:
+  perl: 5.005
+  Carp: 0
+  version: 0.48
+  Perl::Metrics: 0.03
+  Perl::MinimumVersion: 0.10
+no_index:
+  directory:
+    - inc
+generated_by: Module::Install version 0.370
