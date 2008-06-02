@@ -38,13 +38,13 @@ SUPPORT
     For other issues, contact the author.
 
 AUTHOR
-    Adam Kennedy <cpan@ali.as>, <http://ali.as/>
+    Adam Kennedy <adamk@cpan.org>
 
 SEE ALSO
     Perl::Metrics::Plugin, Perl::Metrics, Perl::MinimumVersion, PPI
 
 COPYRIGHT
-    Copyright 2005 Adam Kennedy. All rights reserved.
+    Copyright 2005 - 2008 Adam Kennedy.
 
     This program is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
